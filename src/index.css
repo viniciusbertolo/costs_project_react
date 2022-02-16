@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /*OS FORMULARIOS NÃO PASSAM A BORDA*/
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body, #root{
+  background-color: #EFEFEF;
+  height: 100%; /*AJUDA A DEIXAR O RODAPÉ COLADO NO FIM DA PAG*/
+}
